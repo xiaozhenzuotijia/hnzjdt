@@ -158,7 +158,7 @@ $("#save_btn").bind("click", function(){
 			//获取当前系统时间  格式(yyyy-mm-dd hh:mm:ss)
 			var currentFormatDate = year + "-" + month + "-" + day + " " + hours + ":" + minutes + ":" + seconds;
 	  sentTime = 1
-      alert("兽兽您的得分为95分,流水号：10047"+randomStr+",提交时间："+ currentFormatDate)
+      alert("卢晴晴您的得分为96分,流水号：10047"+randomStr+",提交时间："+ currentFormatDate)
 	 return ;
   }
 
